@@ -1,0 +1,5 @@
+path: /content/custom_data/
+train: 'train/images'
+val: 'valid/images'
+
+names: ['Butterfly']
